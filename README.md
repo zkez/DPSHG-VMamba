@@ -2,11 +2,11 @@
 
 The overall framework of our proposed DPSHG-VMamba:
 
-![model](DPSHG-VMamba/img/model.png)
+![model](DPSHG-VMamba/img/model.jpg)
 
 Comparison of different SOTA methods on the NLST-cmst dataset and CLST dataset:
 
-![renderings](DPSHG-VMamba/img/table.png)
+![renderings](DPSHG-VMamba/img/data.png)
 
 ## Pre-requisties
 
